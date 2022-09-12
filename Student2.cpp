@@ -27,7 +27,7 @@ int main() {
     s1.checkAge();
 
     student s2;   // where s2 is object
-    s2.name = "Neha";
+    s2.name = "Sneha";
     s2.age = 21;
     s2.display();
     s2.checkAge();
